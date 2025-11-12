@@ -13,7 +13,7 @@ GitHub: Para versionar e publicar o projeto.
 ## 🧐 Os Bastidores da Criação
 O processo foi bem fascinante:
 
-Geração do Roteiro: Pedi ao Gemini para criar um diálogo de uns dois minutos entre dois apresentadores. O tema? O avanço das próprias IAs.
+* Geração do Roteiro: Pedi ao Gemini para criar um diálogo de uns dois minutos entre dois apresentadores. O tema? O avanço das próprias IAs.
 
 Geração das Vozes: Em seguida, pedi para ele converter esse roteiro em fala. O resultado foram vozes com entonação bem natural, como um podcast de verdade.
 
