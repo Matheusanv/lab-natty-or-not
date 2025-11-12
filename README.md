@@ -1,4 +1,4 @@
-### 🎧 Criei um Podcast sobre o Futuro (Usando só IA!)
+# 🎧 Criei um Podcast sobre o Futuro (Usando só IA!)
 
 ## 📒 A Ideia do Projeto
 * Participei do Desafio “Natty or Not” da DIO, e minha ideia foi testar os limites das IAs Generativas. Eu queria ver se era possível criar um conteúdo que parecesse 100% real, mas feito inteiramente por um robô.
