@@ -26,7 +26,7 @@ O processo foi bem fascinante:
 
 * Isso mostra o quanto essas ferramentas já avançaram, conseguindo não só criar roteiros e imagens, mas integrar tudo (texto, voz e imagem) em um único produto.
 
-## 🎥 Assista ao vídeo completo aqui: 👉 Clique para assistir ao Podcast de Tecnologia Futurista
+## 🎥 Assista ao vídeo completo aqui: 👉 https://drive.google.com/file/d/1RQCuyX8G1zey1Xw8MZCmV3dSrPDr_JuE/view?usp=sharing
 
 ## 💭 O que eu aprendi com isso?
 Esse projeto me provou o quanto as IAs generativas estão se tornando acessíveis e poderosas. É incrível ver uma ferramenta criar um conteúdo audiovisual completo de forma autônoma.
